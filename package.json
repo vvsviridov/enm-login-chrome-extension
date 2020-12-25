@@ -9,8 +9,8 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Jack Herrington",
-    "email": "jherr@pobox.com"
+    "name": "Vyacheslav Sviridov",
+    "email": "atx@inbox.ru"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",
@@ -25,8 +25,6 @@
   },
   "dependencies": {
     "copy-webpack-plugin": "^6.3.1",
-    "html-webpack-plugin": "^4.5.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "html-webpack-plugin": "^4.5.0"
   }
 }
