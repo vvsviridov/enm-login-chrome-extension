@@ -7,7 +7,7 @@
 
   "content_scripts": [
     {
-      "matches": ["https://*/login/*"],
+      "matches": ["https://*/login/*enm*"],
       "js": ["contentScript.js"]
     }
   ],
