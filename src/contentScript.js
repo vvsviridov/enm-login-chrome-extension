@@ -1,6 +1,4 @@
 
-      // "matches": ["https://*/login"],
-
 let loginUsername = localStorage.getItem('enmUsername')
 let loginPassword = localStorage.getItem('enmPassword')
 
